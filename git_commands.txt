@@ -1,1 +1,15 @@
 I am creating this file to remember, test and learn git and github
+
+'clone' - Cloning a repository(someone else's) on your local machine
+git clone Repository Link
+git clone https://github.com/varuncode01/GIthub_D.git
+
+'git status' - tell's status and branch
+
+'git add' - file name or if you want to add all your changes in all files use - 'git add .'
+
+'git commit -m "some message it can also be the change you did"' - to finalise and update the file locally in our system
+'git push origin main' - upload local repo content to remote repo(github)
+* git push is main command 'origin' is we named the file from where we copied it from
+* 'main' - it's main folder
+
