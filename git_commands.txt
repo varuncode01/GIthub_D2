@@ -24,7 +24,7 @@ git clone https://github.com/varuncode01/GIthub_D.git
 'ls' - list files inside directory you are in
 'ls -a' - all files will be shown including hidden files\
 
-'cd' folder name or path - change directory
+'cd file_name' - change directory
 'cd..' - exist from this directory
 
 * if you change something in file status will be 'modified'
@@ -33,3 +33,16 @@ git clone https://github.com/varuncode01/GIthub_D.git
 * add - file status 'staged' and ready to 'commit'
 * commit - status 'unmodified'/'unchanged'
 
+
+*** Branch Commands ***
+
+'git branch' - to check branch
+'git branch -MO branch_name' - to raname branch
+'git checkout branch_name' - to navigate to different branch
+'git checkout -b branch_name' - to create new branch
+'git checkout -d branch_name' - to delete branch you can't delete the branch you are in
+'git diff branch_name' - to compare commits, branches, files and more
+way 1:
+'git merge branch_name' - to merge two branches
+way 2:
+create a pr:
