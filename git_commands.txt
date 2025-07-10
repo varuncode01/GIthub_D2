@@ -45,4 +45,10 @@ git clone https://github.com/varuncode01/GIthub_D.git
 way 1:
 'git merge branch_name' - to merge two branches
 way 2:
-create a pr:
+create a pr: on github
+
+'git pull origin main' - used to fetch and download content from a remote repo and immediately update the local repo to match that content
+
+***Resolving Merge Conflicts*** using command line
+'git merge branch_name' - to merge two branches
+
