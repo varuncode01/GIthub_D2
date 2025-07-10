@@ -33,3 +33,7 @@ git clone https://github.com/varuncode01/GIthub_D.git
 * add - file status 'staged' and ready to 'commit'
 * commit - status 'unmodified'/'unchanged'
 
+* To check merge conflicts
+* I'll add some lines
+* To see how to resolve them
+
