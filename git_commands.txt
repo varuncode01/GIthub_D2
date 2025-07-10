@@ -55,3 +55,14 @@ create a pr: on github
 ***Resolving Merge Conflicts*** using command line
 'git merge branch_name' - to merge two branches
 
+*** Undoing changes ***
+case 1: staged changes-they are added not commited yet
+'git reset file_name'
+'git reset'
+
+case 2: commited changes(for one commit)
+'git reset HEAD-1'
+
+case 3: commited changes(for many commits)
+'git reset commit_hash'
+'git reset --hard commit_hash'
