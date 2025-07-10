@@ -21,7 +21,7 @@ git clone https://github.com/varuncode01/GIthub_D.git
 'git push origin main'
 'git push -u origin main' - so you don't have to write origin main again all files will be origin main automatically
 
-'git.log' - to check last commits
+'git log' - to check last commits
 
 'ls' - list files inside directory you are in
 'ls -a' - all files will be shown including hidden files\
