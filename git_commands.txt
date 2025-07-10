@@ -57,8 +57,8 @@ create a pr: on github
 
 *** Undoing changes ***
 case 1: staged changes-they are added not commited yet
-'git reset file_name'
-'git reset'
+'git reset file_name' - for specific file
+'git reset' - for all files in branch
 
 case 2: commited changes(for one commit)
 'git reset HEAD-1'
