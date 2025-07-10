@@ -61,7 +61,7 @@ case 1: staged changes-they are added not commited yet
 'git reset' - for all files in branch
 
 case 2: commited changes(for one commit)
-'git reset HEAD-1'
+'git reset HEAD-1' - 'HEAD-1' it is by default name
 
 case 3: commited changes(for many commits)
 'git reset commit_hash'
